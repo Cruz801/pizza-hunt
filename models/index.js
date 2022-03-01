@@ -3,33 +3,3 @@ const Comment = require('./Comment');
 
 module.exports = { Pizza, Comment };
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-module.exports = { Pizza };
